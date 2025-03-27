@@ -2,12 +2,12 @@
 
 ## Viewing the notebook
 
-Notebook file is available [here](https://github.com/kn-bibs/biofuzje-workshop/blob/main/biofuzje-notebook.ipynb)
+Notebook file is available [here](https://colab.research.google.com/drive/1P7jha2Voe8WfTymjfN8Lp7iPQ_KPXuEc?usp=sharing)
 
 ## Running the notebook
 
 To open notebook in Google Colab click icon below
 
-<a target="_blank" href="https://colab.research.google.com/github/kn-bibs/biofuzje-workshop/blob/main/biofuzje-notebook.ipynb">
+<a target="_blank" href="https://colab.research.google.com/drive/1P7jha2Voe8WfTymjfN8Lp7iPQ_KPXuEc?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
