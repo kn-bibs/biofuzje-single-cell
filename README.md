@@ -2,7 +2,7 @@
 
 ## Viewing the notebook
 
-Notebook file is available [here](https://colab.research.google.com/drive/1P7jha2Voe8WfTymjfN8Lp7iPQ_KPXuEc?usp=sharing)
+Notebook file is available [here](Biofuzje_2025_single_cell_student.ipynb)
 
 ## Running the notebook
 
